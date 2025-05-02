@@ -1,4 +1,4 @@
-## 🔭 I’m currently working on developing my IT skills and documenting the my different homelab projects!
+## 🔭 I’m currently working on developing my IT skills and using GitHub to document my different projects!
 
 <!--
 **srosanelli/srosanelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
